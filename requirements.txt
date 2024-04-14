@@ -1,0 +1,9 @@
+python==3.8.5
+numpy==1.24.2
+pytorch==1.9.0 
+torchvision==0.10.0 
+torchaudio==0.9.0
+cudatoolkit==11.3.1
+geoopt==0.5.0
+gensim==4.3.0
+sklearn==1.2.2

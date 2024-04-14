@@ -1,0 +1,30 @@
+nips:
+  --dataset nips
+  --vocab_size 3531
+  --emb_type glove
+  --batch_size 256
+  --epochs 30000
+  --optim rmsprop
+  --topic_num 200
+  --dropout 0.4
+  --mode Train
+
+20news:
+  --dataset 20news
+  --vocab_size 3997
+  --emb_type glove
+  --batch_size 256
+  --optim rmsprop
+  --topic_num 200
+  --dropout 0.4
+  --mode Train
+
+wikitext-103:
+  --dataset wikitext-103
+  --vocab_size 19967
+  --emb_type glove
+  --batch_size 256
+  --optim rmsprop
+  --topic_num 200
+  --dropout 0.4
+  --mode Train
