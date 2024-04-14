@@ -1,4 +1,5 @@
 The code of "Hierarchical Topic Modeling via Contrastive Learning and Hyperbolic Embedding"
+
 The dataset Wikitext-103 and the word embedding files could not be uploaded due to system limitations.
 
 For word embedding, it can be downloaded from Glove website (https://nlp.stanford.edu/projects/glove/).
